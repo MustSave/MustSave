@@ -3,6 +3,12 @@
 </div>
 <br>
 <div align="center">
+  <a href="https://mustsave.github.io/">
+    <img src="https://img.shields.io/badge/Tech_Blog-222222?style=for-the-badge&logo=github&logoColor=white" alt="기술 블로그 바로가기" />
+  </a>
+</div>
+<br>
+<div align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kito4972"/>
 </div>
 <br>
